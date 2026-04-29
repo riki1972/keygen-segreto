@@ -2,7 +2,7 @@ import streamlit as st
 import hashlib
 
 # INSERISCI QUI IL TUO SALE SEGRETO
-SALT = "Adelina_inc"
+SALT = "Questa_E_La_Mia_Frase_Super_Segreta_123!"
 
 st.set_page_config(page_title="Keygen Privato", page_icon="🔑")
 st.title("🔑 Generatore Licenze")
